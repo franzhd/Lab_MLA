@@ -1,5 +1,6 @@
 /lab0/data/*
 /lab0/src/runs/*
+/lab0/trasformed_dataset/
 /lab1/data/*
 /lab1/src/runs/*
 .vscode/
